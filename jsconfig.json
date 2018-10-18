@@ -1,0 +1,10 @@
+{
+ "typeAcquisition": {
+    "include": [
+      "matter"
+    ]
+  },
+"compilerOptions": {
+        "target": "es6"
+    }
+}
